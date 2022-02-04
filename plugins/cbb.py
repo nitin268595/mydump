@@ -10,7 +10,7 @@ async def cb_handler(client: Bot, query: CallbackQuery):
             reply_markup = InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("👥 Join Discussion Group", url = "https://t.me/HEO_TRADING")
+                        InlineKeyboardButton("👥 Thanks", url = "⭐⭐")
                     ]
                 ]
             )
